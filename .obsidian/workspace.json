@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.0 STRINGS.md",
+                "file": "4.0 DATA TYPES.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.0 STRINGS.md",
+                "file": "4.0 DATA TYPES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.0 STRINGS.md",
+                "file": "4.0 DATA TYPES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.0 STRINGS.md"
+                "file": "4.0 DATA TYPES.md"
               }
             }
           }
@@ -160,10 +160,10 @@
   },
   "active": "96b638548039e4ea",
   "lastOpenFiles": [
-    "4.0 DATA TYPES.md",
     "5.0 STRINGS.md",
+    "4.0 DATA TYPES.md",
     "3.0 VARIABLES.md",
-    "1.0 Introduction.md",
-    "2.0 PRINT, INPUTS, COMMENTS.md"
+    "2.0 PRINT, INPUTS, COMMENTS.md",
+    "1.0 Introduction.md"
   ]
 }

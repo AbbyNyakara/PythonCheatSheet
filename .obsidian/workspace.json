@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.0 STRINGS.md",
+                "file": "6.0 NUMBERS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "118eb735a0adfaa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.0 NUMBERS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.0 DATA TYPES.md",
+                "file": "6.0 NUMBERS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.0 DATA TYPES.md",
+                "file": "6.0 NUMBERS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.0 DATA TYPES.md"
+                "file": "6.0 NUMBERS.md"
               }
             }
           }
@@ -158,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96b638548039e4ea",
+  "active": "76c4455a3d52be45",
   "lastOpenFiles": [
     "5.0 STRINGS.md",
-    "4.0 DATA TYPES.md",
+    "6.0 NUMBERS.md",
+    "1.0 INTRODUCTION.md",
     "3.0 VARIABLES.md",
-    "2.0 PRINT, INPUTS, COMMENTS.md",
-    "1.0 Introduction.md"
+    "4.0 DATA TYPES.md",
+    "2.0 PRINT, INPUTS, COMMENTS.md"
   ]
 }

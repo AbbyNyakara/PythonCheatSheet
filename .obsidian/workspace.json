@@ -44,6 +44,42 @@
             }
           },
           {
+            "id": "8e413c36eee17689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.5 -------CODE EXAMPLE--------.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc9bd8a3b8b1afe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7.0 LISTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec5d275bf285e2c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.0 NUMBERS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "118eb735a0adfaa6",
             "type": "leaf",
             "state": {
@@ -56,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.5 -------CODE EXAMPLE--------.md",
+                "file": "6.0 NUMBERS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.5 -------CODE EXAMPLE--------.md",
+                "file": "6.0 NUMBERS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +198,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.5 -------CODE EXAMPLE--------.md"
+                "file": "6.0 NUMBERS.md"
+              }
+            }
+          },
+          {
+            "id": "d9dc7e0c408fa763",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -183,10 +229,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc920ccfc92ddce2",
+  "active": "ec5d275bf285e2c9",
   "lastOpenFiles": [
-    "6.0 NUMBERS.md",
+    "7.0 LISTS.md",
     "6.5 -------CODE EXAMPLE--------.md",
+    "Untitled",
+    "6.0 NUMBERS.md",
     "5.0 STRINGS.md",
     "4.0 DATA TYPES.md",
     "3.0 VARIABLES.md",
